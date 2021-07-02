@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 class Earn{
   public $url="https://earning.company/earn_real_cash/";
   public $uries="kakatoji";
